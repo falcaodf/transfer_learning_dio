@@ -19,5 +19,12 @@
  # Caminho da imagem que você quer testar
 img_path = "Caminho_da_sua_imagem" localize essa variável no código e escolha o caminho da sua imagem para poder testar o modelo treinado
 
+## Ajustes feitos no projeto
+
+- Dataset adicionado manualmente no Colab (link original estava quebrado).
+- Redução do tamanho das imagens para **96x96** para diminuir o consumo de memória.
+- Uso de `EarlyStopping` para evitar OOM durante o treinamento.
+- Ajuste do `batch_size` para **16** e `epochs` para **50**, garantindo maior estabilidade.
+- Configurações adicionais foram testadas, mas resultaram em OOM.
 
 
