@@ -5,7 +5,7 @@
 - Suba a pasta requirements para o diretório:
 -"/content/sample_data" dentro do colab
 - Instalar dependências:
-- !pip isntall -r requirements
+- !pip install -r requirements.txt
 - 
 -Baixe o dataset no seguinte endereço:
 -"https://www.microsoft.com/en-us/download/details.aspx?id=54765"
