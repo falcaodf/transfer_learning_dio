@@ -7,7 +7,7 @@
 - Instalar dependências:
 - !pip install -r requirements.txt
  
--Baixe o dataset no seguinte endereço:
+- Baixe o dataset no seguinte endereço:
 -"https://www.microsoft.com/en-us/download/details.aspx?id=54765"
 - Suba o arquivo "kagglecatsanddogs_5340.zip" para o seguinte caminho:
 - "/content/sample_data/kagglecatsanddogs_5340.zip"
