@@ -12,3 +12,5 @@
 - Suba o arquivo "kagglecatsanddogs_5340.zip" para o seguinte caminho:
 - "/content/sample_data/kagglecatsanddogs_5340.zip"
 
+- Execute célula por célula
+
