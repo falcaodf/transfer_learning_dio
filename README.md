@@ -17,7 +17,7 @@
 
 - Na útima célula:
  # Caminho da imagem que você quer testar
-img_path = "Caminho_da_sua_imagem" localize essa variável no código e escolha o caminho da sua imagem para poder testar o modelo treinado
+img_path = "Caminho_da_sua_imagem"
 
 ## Ajustes feitos no projeto
 
